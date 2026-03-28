@@ -16,7 +16,7 @@
 
 ### 📈 [Solana Meme Coin Tracker](https://github.com/msaad732/Meme-Coins-Tracker-System)
 A real-time data pipeline that discovers newly launched Solana tokens, tracks 30+ metrics every 30 seconds, and analyzes wallet behaviors to detect pump-and-dumps. 
-* **Tech Stack:** Python, PostgreSQL, Streamlit, Railway, Helius/Apify/Solscan APIs.
+* **Tech Stack:** Python, PostgreSQL, Streamlit, Railway, APIs.
 * **Impact:** Automates market analysis that replaces 4-5 manual tools for traders, building a massive labeled dataset for future Machine Learning price-prediction models.
 
 ### 🌌 [NASA Space Apps Hackathon - ML Model](https://github.com/msaad732/nasa-hackathon-ml-model)
@@ -29,7 +29,7 @@ A complete system designed for healthcare alerting and management.
 
 ### 🏆 [Hult Prize UET Taxila Management](https://github.com/msaad732/hult-prize-uet-taxila)
 The digital infrastructure and codebase supporting the organization and execution of the Hult Prize entrepreneurship event.
-* **Tech Stack:** JavaScript, Web Technologies.
+* **Tech Stack:** JavaScript.
 
 ---
 
