@@ -36,7 +36,7 @@ The digital infrastructure and codebase supporting the organization and executio
 ## 🧠 What I'm Up To
 - 🎓 Studying Computer Science at the **University of Engineering and Technology (UET), Taxila**.
 - 🗣️ Organizing and leading university events, including **Hult Prize**, **UETTMUN**, and debating societies.
-- 🧩 Solving complex algorithmic challenges (Proud **CS50x Puzzle Day** w
+- 🧩 Solving complex algorithmic challenges (Proud **CS50x Puzzle Day winner** 
 
 ---
 
